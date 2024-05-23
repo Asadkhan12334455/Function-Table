@@ -4,7 +4,8 @@ function table (n1:number, n2:number) {
         console.log(` ${n1} x ${i} = ${n1*i}`);
     }   
 }
-table(2,10), table(3,10)
+table(2,10)
+table(3,10)
 table(9,10)
 table(12,10)
 table(20,10)
